@@ -1,2 +1,4 @@
-# digital-clock-web-26
+# Digital Clock Web 26
+
 A simple browser digital clock using HTML, CSS, and JavaScript.
+
